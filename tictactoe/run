@@ -1,0 +1,5 @@
+javac -cp "D:\tictactoe\mysql-connector-java-8.0.23.jar" *.java
+
+java -cp "D:\tictactoe\mysql-connector-java-8.0.23.jar;." Server
+
+java -cp "D:\tictactoe\mysql-connector-java-8.0.23.jar;." Client
